@@ -27,26 +27,31 @@
   ## <h3 align="center">💻 Tecnologías y herramientas </h3>
 
     <table align="center">
-<tr>
-<td>
+    <tr>
 
-<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-html5-64.png"/>
+    <td>
+    <img src=".github/assets/img/icons8-html5-64.png" alt="html5-logo">
+    </td>
+    <td>
+    <img src=".github/assets/img/icons8-tipo-de-archivo-css-64.png" alt="css3-logo">
+    </td> 
+    <td>
+    <img src=".github/assets/img/icons8-javascript-64.png" alt="javascript-logo">
+    </td> 
+    </tr>
 
-</td>
-<td>
-
-<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-tipo-de-archivo-css-64.png"/>
-
-</td>
-<td>
-
-<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-reaccionar-nativo-64.png"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
+    <tr>
+    <td>
+    <img src=".github/assets/img/icons8-reaccionar-nativo-64.png" alt="React-logo">
+    </td> 
+    <td>
+    <img src=".github/assets/img/icons8-figma-64.png" alt="Figma-logo">
+    </td> 
+    <td>
+    <img src="Trello" alt="Trello-logo">
+    </td>
+    </tr> 
+    </table>
 
 <img align="center" alt="HTML-img" width="35px" src=""/>
 
