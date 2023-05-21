@@ -26,8 +26,33 @@
   
   ## <h3 align="center">💻 Tecnologías y herramientas </h3>
 
-    ![<img align="left" alt="MC Technology | YouTube" width="22px" src="./img/icons8-html5-64.png" />][HTML5]
-  
+    <table align="center">
+<tr>
+<td>
+
+<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-html5-64.png"/>
+
+</td>
+<td>
+
+<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-tipo-de-archivo-css-64.png"/>
+
+</td>
+<td>
+
+<img align="center" alt="HTML-img" width="35px" src=".github/assets/img/icons8-reaccionar-nativo-64.png"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img align="center" alt="HTML-img" width="35px" src=""/>
+
+</td>
+</tr>
+
   ## <h3 align="center">📈 Estadisticas</h3>
 
   <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
