@@ -15,9 +15,9 @@
 <tr>
 <td>
 
-[<img align="left" alt="@JosmaryPTech | Twitter" width="22px" src="./src/twitter.png" />][Twitter]
-[<img align="left" alt="@JosmaryPTech | Discord" width="22px" src="./src/" />][Discord]
-[<img align="left" alt=" | Linkedin" width="22px" src="./src/facebook.png" />][Linkedin]
+<img align="left" alt="@JosmaryPTech | Twitter" width="22px" src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/a3dc1d190609a27cb43762df93bd74ba2933b3d9/icons8-twitter-64.png" />Twitter
+<img align="left" alt="@JosmaryPTech | Discord" width="22px" src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/a3dc1d190609a27cb43762df93bd74ba2933b3d9/icons8-logotipo-de-la-discordia-64.png" />]Discord
+<img align="left" alt="Josmary Pirela | Linkedin" width="22px" src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/a3dc1d190609a27cb43762df93bd74ba2933b3d9/icons8-linkedin-64.png" />Linkedin
 
 </td>
 </tr>
