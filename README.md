@@ -31,25 +31,24 @@
 <td>
 <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-html5-64.png" alt="html5-logo">
 </td>
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-tipo-de-archivo-css-64.png" alt="css3-logo">
-    </td> 
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-javascript-64.png" alt="javascript-logo">
-    </td> 
-    </tr>
-
-    <tr>
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-reaccionar-nativo-64.png" alt="React-logo">
-    </td> 
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-figma-64.png" alt="Figma-logo">
-    </td> 
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-trello-64.png" alt="Trello-logo">
-    </td>
-    </tr> 
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-tipo-de-archivo-css-64.png" alt="css3-logo">
+</td> 
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-javascript-64.png" alt="javascript-logo">
+</td> 
+</tr>
+<tr>
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-reaccionar-nativo-64.png" alt="React-logo">
+</td> 
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-figma-64.png" alt="Figma-logo">
+</td> 
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-trello-64.png" alt="Trello-logo">
+</td>
+ </tr> 
  </table>
 
   ## <h3 align="center">📈 Estadisticas</h3>
