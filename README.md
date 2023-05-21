@@ -20,11 +20,9 @@
 </table>
 
   - 🌟 Front End Developer 🌟
-  <br>
   - 🖥 Estudiante de ingeniería en sistemas
-  <br>
-  - Curiosa por naturaleza 
-  <br>
+  - 🤓 Actualmente estoy aprendiendo tanto como pueda
+  - 📚 ¡Me encanta la lectura!
 
   ## <h3 align="center">🌐 Contactos</h3>
   
