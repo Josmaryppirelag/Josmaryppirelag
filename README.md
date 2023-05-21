@@ -24,9 +24,9 @@
   - 🤓 Actualmente estoy aprendiendo tanto como pueda
   - 📚 ¡Me encanta la lectura!
   
-  ## <h3 align="center">💻 Habilidades</h3>
+  ## <h3 align="center">💻 Tecnologías y herramientas </h3>
 
-
+    [<img align="left" alt="MC Technology | YouTube" width="22px" src="./img/icons8-html5-64.png" />][HTML5]
   
   ## <h3 align="center">📈 Estadisticas</h3>
 
