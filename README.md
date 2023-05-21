@@ -18,9 +18,13 @@
 </td>
 </tr>
 </table>
+
   - 🌟 Front End Developer 🌟
+  <br>
   - 🖥 Estudiante de ingeniería en sistemas
+  <br>
   - Curiosa por naturaleza 
+  <br>
 
   ## <h3 align="center">🌐 Contactos</h3>
   
