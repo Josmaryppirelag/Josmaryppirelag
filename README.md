@@ -11,6 +11,17 @@
 
   ## <h3 align="center">Contactos</h3>
   
+  <table align="right">
+<tr>
+<td>
+
+[<img align="left" alt="@JosmaryPTech | Twitter" width="22px" src="./src/twitter.png" />][Twitter]
+[<img align="left" alt="@JosmaryPTech | Discord" width="22px" src="./src/" />][Discord]
+[<img align="left" alt=" | Linkedin" width="22px" src="./src/facebook.png" />][Linkedin]
+
+</td>
+</tr>
+</table>
   
   ## <h3 align="center">Habilidades</h3>
   
