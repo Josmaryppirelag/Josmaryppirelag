@@ -20,7 +20,7 @@
 </td>
   <td>
 
-<a href="https://twitter.com/JosmaryPTech"><img align="center" alt="Josmary Pirela | Linkedin" width="35px" src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/e69541e9bea8cdea40cc40ce23712eb12f6b9b98/icons8-linkedin-64.png"/></a>
+<a href="https://www.linkedin.com/in/josmary-paola-pirela-gonzalez/"><img align="center" alt="Josmary Pirela | Linkedin" width="35px" src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/e69541e9bea8cdea40cc40ce23712eb12f6b9b98/icons8-linkedin-64.png"/></a>
 
 </td>
 </tr>
