@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Hola ✌, soy Josmary Pirela</h1>
   </div>
-  ![alt text](https://github.com/Josmaryppirelag/Josmarypirelag/blob/8ca3df6517a26c7ece1ffe98d4192797bc3b6d85/FRONT%20END%20DEVELOPER.png)
-—
+ 
+  <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/ba0bf9d21b8b12f177df33ac45f6ea6e9badd633/FRONT%20END%20DEVELOPER.png" alt="">
   
   ## Sobre mi
   
