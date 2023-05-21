@@ -26,7 +26,7 @@
   
   ## <h3 align="center">💻 Tecnologías y herramientas </h3>
 
-    <table align="center">
+   <table align="center">
     <tr>
 
     <td>
