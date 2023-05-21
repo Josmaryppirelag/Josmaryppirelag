@@ -26,12 +26,11 @@
   
   ## <h3 align="center">💻 Tecnologías y herramientas </h3>
 
-   <table align="center">
-    <tr>
-
-    <td>
-    <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-html5-64.png" alt="html5-logo">
-    </td>
+<table align="center">
+<tr>
+<td>
+<img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-html5-64.png" alt="html5-logo">
+</td>
     <td>
     <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-tipo-de-archivo-css-64.png" alt="css3-logo">
     </td> 
@@ -51,9 +50,7 @@
     <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-trello-64.png" alt="Trello-logo">
     </td>
     </tr> 
-    </table>
-</td>
-</tr>
+ </table>
 
   ## <h3 align="center">📈 Estadisticas</h3>
 
