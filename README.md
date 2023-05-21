@@ -11,7 +11,7 @@
 
   ## <h3 align="center">Contactos</h3>
   
-  <table align="right">
+  <table align="center">
 <tr>
 <td>
 
