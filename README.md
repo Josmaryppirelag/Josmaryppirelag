@@ -37,8 +37,6 @@
 <td>
 <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-javascript-64.png" alt="javascript-logo">
 </td> 
-</tr>
-<tr>
 <td>
 <img src="https://github.com/Josmaryppirelag/Josmarypirelag/blob/2da03afdbcf241052b9dc13ce18503a526bcdb81/.github/assets/img/icons8-reaccionar-nativo-64.png" alt="React-logo">
 </td> 
